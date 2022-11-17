@@ -2,34 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Advanced Electric Drive and Control Lab</title>
-    <link>/</link>
+    <link>https://dianxunxiao.github.io/</link>
     <description>Recent content on Advanced Electric Drive and Control Lab</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://dianxunxiao.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Home</title>
-      <link>/home/</link>
+      <link>https://dianxunxiao.github.io/home/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/home/</guid>
-      <description>Welcome!  coming soon&amp;hellip;  </description>
+      <guid>https://dianxunxiao.github.io/home/</guid>
+      <description>Welcome!  coming soon&amp;hellip;  　最后两个问题：如果改变图片大小以及如果在图片左边加文字
+这是一个示例图片。
+图片显示在 N 段文字的右边。
+N 与图片高度有关。
+刷屏行。
+刷屏行。
+到这里应该不会受影响了，本行应该延伸到了图片的正下方，所以我要足够长才能确保不同的屏幕下都看到效果。</description>
     </item>
     
     <item>
       <title>Home</title>
-      <link>/main/home/</link>
+      <link>https://dianxunxiao.github.io/main/home/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/main/home/</guid>
+      <guid>https://dianxunxiao.github.io/main/home/</guid>
       <description>Welcome!  coming soon&amp;hellip;  </description>
     </item>
     
     <item>
       <title>Openings</title>
-      <link>/openings/</link>
+      <link>https://dianxunxiao.github.io/openings/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/openings/</guid>
+      <guid>https://dianxunxiao.github.io/openings/</guid>
       <description>Graduate Students coming soon&amp;hellip;
 Postdoc Fellows coming soon&amp;hellip;
 Research Assistants coming soon&amp;hellip;</description>
@@ -37,19 +43,19 @@ Research Assistants coming soon&amp;hellip;</description>
     
     <item>
       <title>People</title>
-      <link>/people/</link>
+      <link>https://dianxunxiao.github.io/people/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/people/</guid>
+      <guid>https://dianxunxiao.github.io/people/</guid>
       <description>Research Interests  Transportation electrification Control and optimization Electrical machine drives Battery management systems Internet of things and machine learning  Education  Ph.D., Electrical &amp;amp; Computer Engineering, at McMaster University, Canada, 2018-2021 M.Eng., Electrical Engineering, at Harbin Institute of Technology, China, 2016-2018 B.Eng., Electrical Engineering, at Harbin Institute of Technology, China, 2012-2016  Work Experience  Assistant Professor, at ShanghaiTech University, China, 2022 - present Postdoctoral Research Fellow, at McMaster University, Canada, 2021  Conference Committee  Publication Track Chair, IEEE/AIAA Transportation Electrification Conference and Electric Aircraft Technologies Symposium (ITEC+EATS), Anaheim, California, USA, Jun.</description>
     </item>
     
     <item>
       <title>Publications</title>
-      <link>/publications/</link>
+      <link>https://dianxunxiao.github.io/publications/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/publications/</guid>
+      <guid>https://dianxunxiao.github.io/publications/</guid>
       <description>Journal Papers * Corresponding Author
 [J21]	D. Xiao, J. Ye, G. Fang, Z. Xia, X. Wang, and A. Emadi, &amp;ldquo;A Regional Phase-Locked Loop Based Low-Speed Position-Sensorless Control Scheme for General-Purpose Switched Reluctance Motor Drives,&amp;rdquo; IEEE Transactions on Power Electronics, accepted, 2021. (JCR Q1)
 [J20]	G. Fang, J. Ye, D. Xiao*, Z. Xia, and A. Emadi, &amp;ldquo;Low-Ripple Continuous Control Set Model Predictive Torque Control for Switched Reluctance Machines Based on Equivalent Linear SRM Model,&amp;rdquo; IEEE Transactions on Industrial Electronics, accepted, 2021.</description>
@@ -57,19 +63,19 @@ Research Assistants coming soon&amp;hellip;</description>
     
     <item>
       <title>Research</title>
-      <link>/research/</link>
+      <link>https://dianxunxiao.github.io/research/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/research/</guid>
+      <guid>https://dianxunxiao.github.io/research/</guid>
       <description>Research-I  coming soon&amp;hellip;  </description>
     </item>
     
     <item>
       <title>Teaching</title>
-      <link>/teaching/</link>
+      <link>https://dianxunxiao.github.io/teaching/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/teaching/</guid>
+      <guid>https://dianxunxiao.github.io/teaching/</guid>
       <description>Teaching Assistants  ELECENG 4OI6B: Engineering Design, McMaster University, Winter 2021 ELECENG 4OI6A: Engineering Design, McMaster University, Fall 2020 ELECENG 3CL4：Introduction of Control Systems, McMaster University, Winter 2020 ENGINEER 2MM3: Electrical Circuits &amp;amp; Power, McMaster University, Fall 2019 ELECENG 3CL4：Introduction of Control Systems, McMaster University, Winter 2019  </description>
     </item>
     
